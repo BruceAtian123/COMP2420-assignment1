@@ -1,0 +1,62 @@
+                     ==============================
+                       COMP2420, Semester 1, 2019
+                         Assignment 1 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor
+=======================================================
+ u6683369    tue13-15    Cecilia Lao
+=======================================================
+
+Gitlab Repo : u6683369/comp2420-2019-ass1
+
+Markers
+-------
+
+Load data and explore: Alexei, Cecilia
+Data analysis [Q1-Q3]: James, Paige
+Data analysis [Q4-Q5]: Cody, Xu
+Linear regression: Alex
+
+Marks
+=====
+
+========================================
+ Load Data                    :    3/5 
+ Exploratory Data Analysis    :    9/15
+
+ Data Analysis
+   Q1                         :   8 /10
+   Q2                         :   7 /10
+   Q3                         :   11 /15
+   Q4                         :    6/6
+   Q5                         :    13/14
+
+ Linear Regression            :    20/25
+
+ Penalty (if any)             :    /100
+========================================
+   Total (max 100)            :  77
+========================================
+
+
+Feedback
+========
+
+Load Data and Exploratory Data Analysis
+---------------------------------------
+- Data was loaded correctly and additional tasks carried out.
+- Data was explored visually using only one method but statistically using multiple methods.
+Explanations only described why you chose to pick a particular statistical method, not what 
+the actual statistic meant in context.
+
+Data Analysis
+-------------
+Q4: 
+Q5: Answer can be improved by providing more evidence. For example, the relationship is not that clear from the graph. To prove there actually exists some relationship, consider conducting statistical analysis (R2, ect.)
+
+Linear Regression
+-----------------
+Your two models are implemented well. It would be good to see the comparison
+of outputs (predictions and R^2) between both systems to see performance of each model
